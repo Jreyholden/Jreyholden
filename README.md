@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello!
+
+## About Me
+  I am a huge fan of Clemson's football program and watch all of their games. Doug Peterson is the devil, and so is Calvin Ridley.
+  
+  I'm currently working on a simplistic chess engine utilizing pytorch. 
 
 <!--
 **Jreyholden/Jreyholden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
