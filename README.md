@@ -1,7 +1,7 @@
 ## Hello!
 
 ## About Me
-  I am a huge fan of Clemson's football program and watch all of their games. Doug Peterson is the devil.
+  I am a huge fan of Clemson's football program and watch all of their games. 
    
 
 <!--
